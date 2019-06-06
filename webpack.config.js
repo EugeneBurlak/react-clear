@@ -19,6 +19,7 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.join(ROOT_DIR, "/dist"),
+    publicPath: JSON_CONFIG.publicPath,
     filename: "bundle.js"
   },
   module: {
