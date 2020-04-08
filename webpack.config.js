@@ -66,7 +66,7 @@ module.exports = {
       components: ROOT_DIR + "/src/app/components",
       containers: ROOT_DIR + "/src/app/containers",
       actions: ROOT_DIR + "/src/app/actions",
-      store: ROOT_DIR + "/src/app/redux/store",
+      store: ROOT_DIR + "/src/app/store",
       layouts: ROOT_DIR + "/src/app/layouts",
     }
   },
