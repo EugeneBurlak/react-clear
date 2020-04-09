@@ -8,7 +8,7 @@ const func = () => {
       <>
         <div
           onClick={() => {
-            inc1('222');
+            inc1();
           }}
         >
           test {num1}
