@@ -67,6 +67,7 @@ module.exports = {
       containers: ROOT_DIR + "/src/app/containers",
       actions: ROOT_DIR + "/src/app/actions",
       store: ROOT_DIR + "/src/app/store",
+      route: ROOT_DIR + "/src/app/route",
       layouts: ROOT_DIR + "/src/app/layouts",
     }
   },
